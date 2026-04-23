@@ -3,9 +3,9 @@
 
 # Description:- 
 - This project simulates a simple company to manage:
-   1- Users. 
-   2- Groups.
-   3- File and directory Permissions.
+   - Users. 
+   - Groups.
+   - File and directory Permissions.
 - The goal is to control access so each department works within its own environment.
  
 # Users & Departments:-
