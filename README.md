@@ -1,5 +1,5 @@
 # Linux SysAdmin Project #
-------------------------------
+-------------------------------
 🔗 Full guide on Medium:
 https://medium.com/@kareemseddik/how-to-make-linux-sysadmin-project-77f97c6c1632
 
