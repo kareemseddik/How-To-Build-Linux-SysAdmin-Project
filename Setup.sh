@@ -4,7 +4,7 @@ set -e
 
 #Check Root
 if [ "$EUID" -ne 0 ];then
-   echo "please run as root, or user has root privileges"
+   echo "please run as root"
    exit 1
 fi
 
